@@ -1,1 +1,2 @@
 # learn-rebasing
+Første commit!
